@@ -1,8 +1,0 @@
-{
-  "description": "Connect with friends through a serene social platform that allows photo sharing, stories, and privacy-focused interactions without distractions.",
-  "robots": { "index": false },
-  "accessibility": {
-    "addBypassLinks": false,
-    "ignoreReducedMotion": false
-  }
-}
